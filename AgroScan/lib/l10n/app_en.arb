@@ -1,0 +1,7 @@
+{
+    "appTitle": "AgroScan",
+    "detect": "DETECT",
+    "precaution": "PRECAUTION",
+    "openGallery": "OPEN GALLERY",
+    "startCamera": "START CAMERA"
+}
